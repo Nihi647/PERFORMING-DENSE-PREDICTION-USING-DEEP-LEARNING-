@@ -1,0 +1,1 @@
+For this, you are going to copy the Vaihingen dataset in your own Google drive. Access the folder [here](https://drive.google.com/drive/folders/1Tr3q8kjPDzoamNFuHv7vTBsj5-acJC7Z?usp=sharing) and copy it to your drive.
